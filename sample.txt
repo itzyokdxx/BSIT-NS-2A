@@ -4,13 +4,20 @@ int main()
                 int i;
                 for i=0; i<10 i++)
                 {
+
                         printf("Hello World!");
+
+                        printf("Hello World!);
+                        printf("\n");
+
                 }
                 for (i=10; i<10, i--);
                 {
                             printf("Hello World\n");
                 }
-		
+
 		printf("This is output of the activity.");
+                print f("End of the loop");
+
                 return 0;
 }
