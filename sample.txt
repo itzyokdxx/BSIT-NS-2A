@@ -1,0 +1,17 @@
+#include<stdio.h>
+int main()
+{
+                int i;
+                for 9i=0; i<10 i++)
+                {
+                        printf("Hello World!);
+                }
+                return 0;
+}
+
+
+
+
+
+
+
